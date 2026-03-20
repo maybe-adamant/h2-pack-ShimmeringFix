@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "ShimmeringFix"
 versionNumber = "1.0.0"
 description = "Fixes Shimmering Moonshot not applying damage bonus to omega special."
-websiteUrl = "https://github.com/maybe-adamant/h2-modpack-ShimmeringFix"
+websiteUrl = "https://github.com/h2-modpack/h2-modpack-ShimmeringFix"
 containsNsfwContent = false
 
 [package.dependencies]
